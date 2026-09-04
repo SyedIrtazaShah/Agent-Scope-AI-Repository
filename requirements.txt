@@ -3,3 +3,4 @@ python-dotenv
 openai
 langchain
 langchain-openai
+pypdf
