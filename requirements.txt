@@ -4,3 +4,4 @@ openai
 langchain
 langchain-openai
 pypdf
+python-docx
