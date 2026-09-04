@@ -3,3 +3,8 @@ python-dotenv
 openai
 langchain
 langchain-openai
+langchain-community\
+faiss-cpu
+pandas
+openpyx1
+pypdf
